@@ -1,0 +1,36 @@
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\SilverCorrector.Properties.Resources.resources
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\DeviceApplication11.Form1.resources
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\DeviceApplication11.results.resources
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\DeviceApplication11.SplashScreenForm.resources
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\SilverCorrector.csproj.GenerateResource.Cache
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\SilverCorrector.exe
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\SilverCorrector.pdb
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\Users\Babak\Desktop\SenseSliderDemo\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\SilverCorrector.exe
+C:\Users\Babak\Desktop\SenseSliderDemo\obj\Debug\SilverCorrector.pdb
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\SilverCorrector.exe
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\SilverCorrector.pdb
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\SilverCorrector.Properties.Resources.resources
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\DeviceApplication11.Form1.resources
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\DeviceApplication11.results.resources
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\DeviceApplication11.SplashScreenForm.resources
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\SilverCorrector.csproj.GenerateResource.Cache
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\SilverCorrector.exe
+C:\Users\Babak\Documents\Visual Studio 2008\Projects\SilverCorrector\obj\Debug\SilverCorrector.pdb
